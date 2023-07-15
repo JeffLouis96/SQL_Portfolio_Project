@@ -1,7 +1,7 @@
 # SQL_Portfolio_Project
 
 README
-
+Link to Dataset: https://ourworldindata.org/covid-deaths
 This repository contains SQL code for analyzing COVID-19 data and vaccination data. The code provides various queries to gain insights into the pandemic's impact, including death data, vaccination rates, and population statistics. Below is a numbered list summarizing the SQL queries and their purpose:
 
 1. QUICK GLANCE OF THE DEATH DATA IN Alphabetical order and the earliest recorded case**:
